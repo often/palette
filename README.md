@@ -1,4 +1,4 @@
-# [palette](https://palette.sany.one)
+# [palette](https://often.github.io/palette/)
 a tiny color scheme generator
 
 ## features & how to use
